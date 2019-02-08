@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Alert_dialogs</string>
+    <string name="dialog_title">My Dialog</string>
+    <string name="dialog_message">Hello I am your dialog!</string>
+    <string name="positive_button">Yes</string>
+    <string name="negative_button">No</string>
+
+    <string name="seconddialog_title">Exit</string>
+    <string name="second_dialog_message">Do you want to close the app?</string>
+
+
+</resources>
+
